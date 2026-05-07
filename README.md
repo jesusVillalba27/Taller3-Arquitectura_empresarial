@@ -44,4 +44,4 @@ Definición de la estructura operativa y funcional:
 La ausencia de una Arquitectura Empresarial en **Sucre Conecta Digital S.A.S.** obligaría a la organización a operar en **compartimentos estancos**. Sin esta estructura, la estrategia de "Digitalización Masiva" carecería de un soporte operativo real, provocando que el aval institucional sea inoperante y que la plataforma no pueda diferenciarse de competidores globales. La arquitectura garantiza que la operación diaria esté alineada con la visión de transformar a Sucre en un destino turístico líder.
 
 ---
-*Nota: Este repositorio cumple con las restricciones de enfoque exclusivo en negocio, omitiendo términos tecnológicos según los requerimientos del taller.*
+
